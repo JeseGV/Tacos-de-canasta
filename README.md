@@ -1,2 +1,2 @@
 # Tacos-de-canasta
-Asi es los tacos de3 canasta son un alimento
+Asi es los tacos de canasta son un alimento
