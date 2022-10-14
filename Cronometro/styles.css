@@ -1,0 +1,21 @@
+/*CSS Para los botones*/
+button {
+    background-color: transparent;
+    position: relative;
+    font-weight: bold;
+    color: #444;
+    font-size: 1rem;
+    padding: 1rem 1.5rem;
+    border: 2px solid #eee;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: all 1s ease;
+    box-shadow: 0.5rem 0.5rem 1rem #ccc, -0.5rem -0.5rem 1rem #fff;
+  }
+  button:hover {
+    box-shadow: 0.5rem 0.5rem 1rem #fff, -0.5rem -0.5rem 1rem #ccc;
+  }
+  
+  button:active {
+    box-shadow: inset 2rem 2rem 1rem #ccc, inset -2rem -2rem 1rem #fff;
+  }
